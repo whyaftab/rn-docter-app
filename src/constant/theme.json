@@ -1,0 +1,53 @@
+{
+  "colors": {
+    "primary": "#003368",
+    "secondary": "#6CBED6",
+    "backgroundColor": "#F5F5F5",
+    "pink": "#F54B77",
+    "fontColor": "#2C2C2C",
+    "lightGrey": "#B8B8B8",
+    "green": "#469D70",
+    "red": "#cc4646",
+    "grey": "#DADADA",
+    "text": "#848484",
+    "borderColor": "#e1eBee",
+    "selectedCardColor": "#B2B2B2"
+  },
+  "Button": {
+    "buttonStyle": {
+      "borderRadius": 40,
+      "padding": 14
+    },
+    "titleStyle": {
+      "textTransform": "capitalize",
+      "fontFamily": "Poppins"
+    }
+  },
+  "Text": {
+    "style": {
+      "color": "#848484",
+      "fontFamily": "Poppins"
+    }
+  },
+  "Icon": {
+    "underlayColor": "#003368",
+    "color": "#fff",
+    "type": "font-awesome"
+  },
+  "demoStyles": {
+    "elevationStyle": {
+      "borderWidth": 1,
+      "borderColor": "#e1eBee",
+      "elevation": 1,
+      "shadowColor": "#000",
+      "shadowOffset": { "width": 0, "height": 1 },
+      "shadowOpacity": 0.5,
+      "shadowRadius": 1
+    },
+    "cardListItem": {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "paddingBottom": 10
+    }
+  }
+}
