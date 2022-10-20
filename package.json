@@ -23,7 +23,7 @@
     "react-native-material-ripple": "^0.9.0",
     "react-native-material-textfield": "n4kz/react-native-material-textfield#169/head",
     "react-native-modal-datetime-picker": "^7.5.0",
-    "react-native-reanimated": "~1.1.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-responsive-screen": "^1.2.2",
     "react-native-screens": "1.0.0-alpha.22",
     "react-native-step-indicator": "^0.0.11",
